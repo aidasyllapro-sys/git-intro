@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
 # Displays To infinity and beyond and I am invicible!!! on SIGTERM
-trap 'echo "I am invicible!!!" SIGTERM
+trap 'echo "I am invicible!!!"' SIGTERM
 while true
+
 do
 	echo "To infinity and beyond"
 	sleep 2
