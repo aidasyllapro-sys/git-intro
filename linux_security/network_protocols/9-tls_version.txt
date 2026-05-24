@@ -1,0 +1,8 @@
+{
+  "tls_1.0_supported": "yes or no",
+  "tls_1.1_supported": "yes or no",
+  "tls_1.2_supported": "yes or no",
+  "tls_1.3_supported": "yes or no",
+  "tls_1.2_cipher": "cipher name from your test",
+  "tls_1.3_cipher": "cipher name from your test"
+}
