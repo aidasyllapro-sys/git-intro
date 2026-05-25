@@ -1,12 +1,12 @@
 {
   "http_site_url": "http://neverssl.com",
-  "http_has_padlock": "yes or no",
-  "http_warning_message": "exact text you saw",
-  "http_protocol_shown": "protocol from Network tab",
+  "http_has_padlock": "no",
+  "http_warning_message": "Not Secure",
+  "http_protocol_shown": "HTTP/1.1",
   "https_site_url": "https://www.wikipedia.org",
-  "https_has_padlock": "yes or no",
-  "https_security_message": "text from padlock click",
-  "https_protocol_shown": "protocol from Network tab",
-  "default_http_port": "port number",
-  "default_https_port": "port number"
+  "https_has_padlock": "yes",
+  "https_security_message": "Connection is secure",
+  "https_protocol_shown": "h2",
+  "default_http_port": "80",
+  "default_https_port": "443"
 }
